@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name"></string>
+    <!--I like app without any name, because it looks special in appdrawer-->
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
